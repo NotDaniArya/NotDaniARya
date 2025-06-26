@@ -1,21 +1,21 @@
 import 'package:flutter/material.dart';
+import 'package:my_portofolio/utils/string_colors.dart';
 
-class ArAppBar extends StatelessWidget implements PreferredSizeWidget {
-  const ArAppBar({super.key});
+class WebNavbar extends StatelessWidget implements PreferredSizeWidget {
+  const WebNavbar({super.key});
 
   @override
   Widget build(BuildContext context) {
     return AppBar(
-      backgroundColor: ColorScheme.of(context).primaryContainer,
+      backgroundColor: RColor.primary,
       title: const Text.rich(TextSpan(children: [
         TextSpan(
             text: 'Dani ',
             style: TextStyle(fontWeight: FontWeight.bold, color: Colors.white)),
         TextSpan(
             text: 'Arya',
-            style: TextStyle(
-                color: Color.fromARGB(255, 31, 216, 111),
-                fontWeight: FontWeight.bold))
+            style:
+                TextStyle(color: RColor.widGrenn, fontWeight: FontWeight.bold))
       ])),
       actions: [
         TextButton(
