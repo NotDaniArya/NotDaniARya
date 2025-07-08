@@ -11,20 +11,22 @@
   <a href="mailto:daniaryap001@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
+  <a href="https://www.instagram.com/notdaniarya/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-[cite_start]Saya adalah seorang lulusan **Sistem Informasi** [cite: 30] [cite_start]dengan fokus dan antusiasme yang mendalam pada **Pengembangan Aplikasi Mobile (Flutter & Kotlin) dan Web (PHP)**[cite: 6]. [cite_start]Saya memiliki pengalaman praktis dari program bergengsi **Bangkit Academy 2024** sebagai Mobile Developer[cite: 21], di mana saya berkolaborasi dalam tim untuk membangun solusi teknologi.
-
-[cite_start]Sebagai **Asisten Laboratorium** [cite: 9][cite_start], saya terbiasa melakukan *troubleshooting* dan memecahkan masalah teknis, yang mengasah kemampuan analisis dan *problem-solving* saya[cite: 11]. Saya selalu bersemangat untuk belajar teknologi baru dan mencari tantangan untuk bertumbuh. [cite_start]Saat ini, saya sedang mencari kesempatan untuk memulai karir dan berkontribusi secara profesional[cite: 7].
+Saya adalah seorang lulusan **Sistem Informasi** dengan fokus dan antusiasme yang mendalam pada **Pengembangan Aplikasi Mobile (Flutter & Kotlin) dan Web (PHP)**. Saya memiliki pengalaman praktis dari program bergengsi **Bangkit Academy 2024 Batch 1** sebagai Mobile Developer, di mana saya berkolaborasi dalam tim untuk membangun aplikasi dan berhasil membuat aplikasi tersebut menjadi **50 besar aplikasi terbaik** di program Bangkit Academy 2024 Batch 1.
 
 ---
 
 ### 🚀 Tech Stack & Tools
 
+<div align="center">
 <table>
   <tr>
     <td align="center" width="100">
@@ -79,43 +81,7 @@
     </td>
   </tr>
 </table>
-
----
-
-### ✨ Featured Projects
-
-<details>
-  <summary>🏆 **Aplikasi Edukasi Pahlawan (Augmented Reality)** - Project Leader</summary>
-  <br>
-  Sebuah aplikasi mobile pembelajaran berbasis Augmented Reality (AR) yang dirancang untuk siswa SD agar dapat mengenal pahlawan nasional Indonesia dengan cara yang interaktif dan menyenangkan. Saya memimpin proyek ini dari tahap perencanaan strategis hingga implementasi.
-  <ul>
-    <li>**Tech Stack:** Flutter, Dart, AR Foundation/Library.</li>
-    <li>**Tanggung Jawab:** Memimpin tim, merancang alur aplikasi, dan ikut dalam pengembangan.</li>
-  </ul>
-  <p align="right"><a href="[Link to Repository]">View Project</a></p>
-</details>
-
-<details>
-  <summary>🍳 **Meals App (Aplikasi Resep)** - Portfolio Project</summary>
-  <br>
-  Aplikasi mobile untuk menemukan resep masakan, lengkap dengan fitur filter berdasarkan kategori diet (vegan, gluten-free, dll.) dan sistem favorit untuk menyimpan resep yang disukai pengguna.
-  <ul>
-    <li>**Tech Stack:** Flutter, Dart, Riverpod (State Management).</li>
-    <li>**Fitur Utama:** Dynamic Filtering, State Management, Local Storage.</li>
-  </ul>
-  <p align="right"><a href="[Link to Repository]">View Project</a></p>
-</details>
-
-<details>
-  <summary>🌐 **Website PHP MVC** - Portfolio Project</summary>
-  <br>
-  Aplikasi web fundamental yang dibangun dari nol menggunakan PHP Native dengan menerapkan pola arsitektur Model-View-Controller (MVC) untuk memisahkan logika bisnis dan tampilan.
-  <ul>
-    <li>**Tech Stack:** PHP, MySQL, JavaScript, HTML, CSS.</li>
-    <li>**Konsep:** OOP, CRUD Operations, MVC Pattern.</li>
-  </ul>
-  <p align="right"><a href="[Link to Repository]">View Project</a></p>
-</details>
+</div>
 
 ---
 
