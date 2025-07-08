@@ -5,7 +5,7 @@
 <h3 align="center">A Passionate Mobile & Web Developer from Indonesia 🇮🇩</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-dani-arya-putra/" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-dani-arya-putra-8a8791234/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:daniaryap01@gmail.com">
