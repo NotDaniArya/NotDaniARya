@@ -8,10 +8,10 @@
   <a href="https://www.linkedin.com/in/muhammad-dani-arya-putra/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:daniaryap001@gmail.com">
+  <a href="mailto:daniaryap01@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https://www.instagram.com/notdaniarya/" target="_blank">
+  <a href="https://www.instagram.com/daniarya_p/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
@@ -20,7 +20,7 @@
 
 ### 👨‍💻 About Me
 
-Saya adalah seorang lulusan **Sistem Informasi** dengan fokus dan antusiasme yang mendalam pada **Pengembangan Aplikasi Mobile (Flutter & Kotlin) dan Web (PHP)**. Saya memiliki pengalaman praktis dari program bergengsi **Bangkit Academy 2024 Batch 1** sebagai Mobile Developer, di mana saya berkolaborasi dalam tim untuk membangun aplikasi dan berhasil membuat aplikasi tersebut menjadi **50 besar aplikasi terbaik** di program Bangkit Academy 2024 Batch 1.
+I am an **Information Systems** graduate with a deep focus and enthusiasm for **Mobile App Development (Flutter & Kotlin) and Web Development (PHP)**. I have practical experience from the prestigious **Bangkit Academy 2024 Batch 1** program as a Mobile Developer, where I collaborated in a team to build an application. We successfully led our project to become one of the **Top 50 Capstone Projects** in the program.
 
 ---
 
