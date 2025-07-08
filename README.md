@@ -50,7 +50,7 @@ I am an **Information Systems** graduate with a deep focus and enthusiasm for **
       <br>PHP
     </td>
      <td align="center" width="100">
-      <img src="https://mazer.dev/en/laravel/b1-course/laravel-framework-what-is/featured-laravel-logo_hu547193251355162947.png" width="40" height="40" alt="Laravel" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" width="40" height="40" alt="Laravel" />
       <br>Laravel
     </td>
   </tr>
