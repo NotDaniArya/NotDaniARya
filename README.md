@@ -79,9 +79,11 @@ I am an **Information Systems** graduate with a deep focus and enthusiasm for **
       <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="40" height="40" alt="Postman" />
       <br>Postman
     </td>
+  </tr>
+  <tr>
     <td align="center" width="100">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" width="40" height="40" alt="PostgreSQL" />
-      <br>Postman
+      <br>PostgreSQL
     </td>
   </tr>
 </table>
