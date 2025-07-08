@@ -59,7 +59,7 @@ I am an **Information Systems** graduate with a deep focus and enthusiasm for **
       <br>PHP
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" height="40" alt="Laravel" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" width="40" height="40" alt="Laravel" />
       <br>Laravel
     </td>
     <td align="center" width="96">
@@ -71,7 +71,7 @@ I am an **Information Systems** graduate with a deep focus and enthusiasm for **
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase" />
+      <img src="https://brandlogos.net/wp-content/uploads/2025/03/firebase_icon-logo_brandlogos.net_tcvck.png" width="40" height="40" alt="Firebase" />
       <br>Firebase
     </td>
     <td align="center" width="96">
