@@ -44,10 +44,6 @@ I am an **Information Systems** graduate with a deep focus and enthusiasm for **
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="Kotlin" />
       <br>Kotlin
     </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40" alt="Android" />
-      <br>Android
-    </td>
   </tr>
 </table>
 
